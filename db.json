@@ -33,14 +33,5 @@
         "petsAllowed": false,
         "organizer": "Carey Wales"
     }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
